@@ -29,6 +29,7 @@ a:hover{color: #ff5500;}
 .nav_one li{height: 40px; list-style: none;float: left;}
 
 /*banner */
+.conTop{height: 288px;}
 .content{border: 1px solid #d4d4d4;margin-top: 10px;width: 874px;float: left;}
 .banner{margin: 2px 4px;}
 /*�登录�*/
@@ -50,9 +51,11 @@ a:hover{color: #ff5500;}
 .LoginButton{ background-color: #ff5500; border: none;width: 248px;height: 41px;font-size: 14px; color: #fff; border-radius: 5px;}
 
 /*向标*/
-.form_one{border: 1px solid #d4d4d4; width: 874px; height: 37px; float: left; margin-top: 20px;background:-webkit-gradient(linear, 0% 0%, 0% 100%,from(#ffffff), to(#f2f2f2));}
+.top{height: 406px;}
+.form{ float: left;}
+.form_one{border: 1px solid #d4d4d4; width: 874px; height: 37px;  margin-top: 20px;background:-webkit-gradient(linear, 0% 0%, 0% 100%,from(#ffffff), to(#f2f2f2));}
 .products{ font-size: 16px; margin: 10px 17px 0; float: left;font-weight: bold;}
-.form_two{ border: 1px solid #d4d4d4; width: 874px;height: 369px;float: left;margin-top: -1px; }
+.form_two{ border: 1px solid #d4d4d4; width: 874px;height: 369px;margin-top: -1px; }
 /*头部*/
 .form_tow li{float: left;line-height: 30px;}
 .order-title{list-style: none;}
@@ -69,14 +72,17 @@ a:hover{color: #ff5500;}
 .textOne{float: left;list-style: none;line-height: 30px;}
 .textOne span{overflow: hidden;font-size: 12px;color:#918e8e;padding: 0 5px; float: left;}
 /*排行*/
-.Ranking{border: 1px solid #d4d4d4;width: 295px; height:406px;float: right;margin: 10px 8px 0;}
-.RanOne{width: 291px;height: 46px;}
-.Buyers{ background-color: #fff; width: 147px; height: 37px; border: none; float: left;font-size: 16px;font-weight: bold; color: #918e8e; }
-.seller{ background:-webkit-gradient(linear, 0% 0%, 0% 100%,from(#ffffff), to(#f2f2f2));width: 147px; height: 37px;border:none;border-bottom: 1px solid #d4d4d4; float: left;font-weight: bold;color: #918e8e; font-size: 16px;}
+.Ranking{border: 1px solid #d4d4d4;width: 295px; height:406px;float: right;margin: 20px 0;}
+.RanOne{width: 297px;height: 46px;}
+.Buyers{ background-color: #fff; width: 148px; height: 37px; border: none; float: left;font-size: 16px;font-weight: bold; color: #918e8e; }
+.seller{ background:-webkit-gradient(linear, 0% 0%, 0% 100%,from(#ffffff), to(#f2f2f2));width: 148px; height: 37px;border:1px solid #d4d4d4;float: left;font-weight: bold;color: #918e8e; font-size: 16px;margin-top: -1px;}
+.imgHead{list-style: none;width: 295px;height: 93px;}
+.ranImg{float: left;height: 65px; width: 65px;margin: 20px 9px 20px 9px ;  }
+.ranName{float: left; width: 195px;height: 93px;padding-top:  26px;}
+.conName{font-size: 14px;}
+.ranName p{ color: #888888; font-size: 12px;}
 
 /*页尾*/
-.column{width: 1190px;height: 71px;background-color: #f5f5f5;margin-top:20px; border: none;border-bottom: 1px solid #d4d4d4;}
-
-
+.column{width: 1190px;height: 71px;background-color: #f5f5f5;margin-top:60px;border-bottom: 1px solid #d4d4d4;}
 
 
